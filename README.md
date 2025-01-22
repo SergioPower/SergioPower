@@ -1,4 +1,4 @@
-(./saludo_img.png)
+!(./saludo_img.png)
 ### Estudiante full-stack engineer
 
 Soy estudiante de software desde el 2022
