@@ -3,14 +3,10 @@
 
 Soy estudiante de software desde el 2022
 
-Desde qué me introduje en el mundo de la programación me encantaba cada pequeño paso desde imprimir "Hola Mundo", hasta poder despleyar un proyecto FullStack. La programación es una carrera complicada, pero sin duda volveria a elejirla porque el proceso se disfruta.
+A partir de que me introduje en el mundo de la programación, me enamoré de cada pequeño paso, desde imprimir un simple "Hola Mundo" hasta desplegar un proyecto complejo. La programación es una carrera desafiante, pero sin duda volvería a elegirla, porque el proceso de aprendizaje y creación es increíblemente gratificante. Cada error resuelto, cada función optimizada y cada proyecto completado me llenan de una sensación de logro que pocas cosas pueden igualar. 🚀
 
+Además, la programación no solo me ha enseñado a escribir código, sino también a pensar de manera lógica y estructurada. He aprendido a descomponer problemas complejos en partes más manejables, a ser paciente y persistente, y a valorar el poder de la autonomía y la autogestión. Cada línea de código es una oportunidad para crear algo nuevo y resolver problemas de manera creativa.💻✨
 
-
-<!--
-**SergioPower/SergioPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
