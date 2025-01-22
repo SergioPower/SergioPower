@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hola, mi nombre es Sergio Guzmán 👋
+### Estudiante full-stack engineer
+
+Soy estudiante de software desde el 2022
+
+
 
 <!--
 **SergioPower/SergioPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
