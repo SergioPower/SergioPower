@@ -3,6 +3,8 @@
 
 Soy estudiante de software desde el 2022
 
+Desde qué me introduje en el mundo de la programación me encantaba cada pequeño paso desde imprimir "Hola Mundo", hasta poder despleyar un proyecto FullStack. La programación es una carrera complicada, pero sin duda volveria a elejirla porque el proceso se disfruta.
+
 
 
 <!--
