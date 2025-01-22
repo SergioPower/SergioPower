@@ -1,4 +1,4 @@
-# Hola, mi nombre es Sergio Guzmán 👋
+(./saludo_img.png)
 ### Estudiante full-stack engineer
 
 Soy estudiante de software desde el 2022
