@@ -1,9 +1,7 @@
 ![](./saludo_img.png)
-# Estudiante full-stack engineer
+# Full-stack engineer
 
-Soy estudiante de software desde el 2022
-
-A partir de que me introduje en el mundo de la programación, me enamoré de cada pequeño paso, desde imprimir un simple "Hola Mundo" hasta desplegar un proyecto complejo. La programación es una carrera desafiante, pero sin duda volvería a elegirla, porque el proceso de aprendizaje y creación es increíblemente gratificante. Cada error resuelto, cada función optimizada y cada proyecto completado me llenan de una sensación de logro que pocas cosas pueden igualar. 🚀
+Desde 2022, me he sumergido en el estudio y desarrollo de software, adquiriendo habilidades tanto en frontend como en backend para crear aplicaciones completas y funcionales. Desde el momento en que me introduje en el mundo de la programación, me cautivó cada detalle, desde imprimir un simple "Hola Mundo" hasta desplegar proyectos complejos. La programación es un camino lleno de desafíos, pero sin duda volvería a elegirla, porque el proceso de aprendizaje y creación es profundamente gratificante. Cada error resuelto, cada función optimizada y cada proyecto finalizado me brindan una sensación de logro que pocas experiencias pueden igualar. 🚀
 
 Además, la programación no solo me ha enseñado a escribir código, sino también a pensar de manera lógica y estructurada. He aprendido a descomponer problemas complejos en partes más manejables, a ser paciente y persistente, y a valorar el poder de la autonomía y la autogestión. Cada línea de código es una oportunidad para crear algo nuevo y resolver problemas de manera creativa.💻✨
 
